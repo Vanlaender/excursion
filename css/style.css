@@ -18,3 +18,16 @@ body {
 	color: #ffffff;
 	color: aquamarine;	
 }
+
+.paragraph--main {
+	font-size: 42px;
+	color: #ffffff;
+	font-family: Verdana;
+}
+.paragraph--classic {
+	font-size: 21px;
+	color: gray;
+	font-family: Verdana;
+}
+
+
